@@ -1,0 +1,107 @@
+{
+  "id": "1636238",
+  "name": "nly-blog",
+  "font_family": "nlyblog",
+  "css_prefix_text": "nly-blog-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7564760",
+      "name": "arrow drop down",
+      "font_class": "xiala",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "387039",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11938460",
+      "name": "project",
+      "font_class": "project",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "12896212",
+      "name": "Home, homepage, menu",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12976657",
+      "name": "mail邮件",
+      "font_class": "mail",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "318235",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "10544985",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "3970853",
+      "name": "HTML5",
+      "font_class": "html",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "4785553",
+      "name": "python",
+      "font_class": "python",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "8864711",
+      "name": "golang",
+      "font_class": "golang",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "11108608",
+      "name": "Vue",
+      "font_class": "vue",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12255978",
+      "name": "JS",
+      "font_class": "js",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "12600657",
+      "name": "css",
+      "font_class": "css",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "13007261",
+      "name": "nly",
+      "font_class": "logo",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    }
+  ]
+}
